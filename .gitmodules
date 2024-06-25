@@ -1,0 +1,3 @@
+[submodule "VC/DDSP-SVC"]
+	path = VC/DDSP-SVC
+	url = git@github.com:yxlllc/DDSP-SVC.git
