@@ -1,7 +1,7 @@
 # Spatial Voice Conversion - Implemetation
 This is an official implemetation of [**Spatial Voice Conversion: Voice Conversion Preserving Spatial Information and Non-target Signals**](https://arxiv.org).
 
-# What is ``Spatial Voice Conversion''?
+# What is Spatial VC?
 Traditional voice conversion (VC) focuses on single-channel audio and ignores background noise signals. In contrast, **Spatial Voice Conversion (Spatial VC)** is a new voice conversion task that performs voice conversion on multi-channel signals while preserving spatial information and non-target signals. This task aims to provide a more immersive and realistic auditory experience in augmented reality and virtual reality.
 
 This repository offers a baseline for Spatial VC using an approach that combines blind source separation, voice conversion, and spatial mixing.
