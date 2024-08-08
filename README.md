@@ -18,6 +18,12 @@ You can install the required Python packages with the following command:
 pip3 install -r requirements.txt
 ```
 
+You can fetch submodules with the following command:
+```
+git submodule update --init --recursive
+```
+If you cannot find the file `main_diff.py`, the above command solves it.
+
 ## Training
 You need to train the Voice Conversion (VC) model. Move to the `VC/DDSP-SVC` directory and follow the instructions in the README to proceed with the training.
 
